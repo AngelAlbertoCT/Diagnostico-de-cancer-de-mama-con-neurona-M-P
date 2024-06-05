@@ -1,7 +1,3 @@
-Lo siento por la confusión anterior. Aquí tienes una descripción más detallada del caso práctico basado en el Perceptrón para el diagnóstico de cáncer de mama, sin incluir código, pero con suficiente información sobre el proceso:
-
----
-
 # Caso Práctico: Diagnóstico de Cáncer de Mama con el Perceptrón
 
 ## Introducción
